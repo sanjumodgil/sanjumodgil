@@ -17,7 +17,7 @@ I architect agentic AI and RAG systems that take GenAI from experiment to govern
 
 ## What you'll find here
 
-### 🚀 [AI-Powered Bid Platform](WIP - Upload soon)
+### 🚀 [AI-Powered Bid Platform](https://github.com/sanjumodgil/ai-bid-platform)
 A free enterprise platform that helps bid teams win contracts: a 16-stage pipeline from opportunity registration through to oral delivery and post-bid learning. Every bid makes the next one better.
 
 - **Evidence-grounded generation**: RAG-based drafting of RFP responses, streamed section by section, with confidence scoring on completeness, relevance, tone and risk
